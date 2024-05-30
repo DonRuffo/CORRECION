@@ -1,5 +1,8 @@
+//Richard Padilla
+//Dennis Dias
 package org.example;
 
+//Todo el Main fue desarrollado por ambos colaboradores
 public class Main {
     public static void main(String[] args) {
 

@@ -13,7 +13,7 @@ public class Main {
         Hoteles hotel4 = new Hoteles(43,7,4.5,70.0,"Marriot");
         Hoteles hotel5 = new Hoteles(23,3,3.6,40.0,"Quito");
         Hoteles hotel6 = new Hoteles();
-        Hoteles hotel7 = new Hoteles();
+        Hoteles hotel7 = new Hoteles(); //hotelessssssssssssssss
 
         hotel3.setNombre(null);
         hotel3.setCalificacion(0);

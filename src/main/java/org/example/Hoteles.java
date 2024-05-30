@@ -83,4 +83,6 @@ public class Hoteles {
         System.out.println("Ingrese el area: ");
         double area = sc.nextDouble(); this.setArea(area);
     }
+
+    //comprobando
 }

@@ -14,4 +14,5 @@ public class Hoteles {
         this.area = area;
         this.nombre = nombre;
     }
+    //Hola buena..
 }

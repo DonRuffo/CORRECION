@@ -18,4 +18,25 @@ public class Hoteles {
         this.nombre = nombre;
     }
 
+    //Richard Padilla
+    public void setHabitaciones(int habitaciones) {
+        this.habitaciones = habitaciones;
+    }
+
+    public void setPisos(int pisos) {
+        this.pisos = pisos;
+    }
+
+    public void setCalificacion(double calificacion) {
+        this.calificacion = calificacion;
+    }
+
+    public void setArea(double area) {
+        this.area = area;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
 }

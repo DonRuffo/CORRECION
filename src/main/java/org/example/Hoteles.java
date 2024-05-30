@@ -39,4 +39,25 @@ public class Hoteles {
         this.nombre = nombre;
     }
 
+    //DENNIS DIAZ
+    public int getHabitaciones() {
+        return habitaciones;
+    }
+
+    public double getCalificacion() {
+        return calificacion;
+    }
+
+    public int getPisos() {
+        return pisos;
+    }
+
+    public double getArea() {
+        return area;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
 }
